@@ -1,0 +1,4 @@
+[submodule "na_product_dimensions"]
+	path = na_product_dimensions
+	url = git@github.com:odoonexapp/na_product_dimensions.git
+	branch = 16.0
