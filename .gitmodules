@@ -2,3 +2,7 @@
 	path = na_product_dimensions
 	url = git@github.com:odoonexapp/na_product_dimensions.git
 	branch = 16.0
+[submodule "na_fitok"]
+	path = na_fitok
+	url = git@github.com:odoonexapp/na_fitok.git
+	branch = 16.0
